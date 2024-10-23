@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CSharpTipsAndTricks_102024/.vs/CSharpTipsAndTricks_102024
+/CSharpTipsAndTricks_102024/Logic/obj
