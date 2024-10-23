@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExistsOverAny", "ExistsOverAny\ExistsOverAny.csproj", "{CAF14343-74C3-4331-BCA0-7C545192D715}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrozenCollections", "FrozenCollections\FrozenCollections.csproj", "{2EDB8E76-9DF0-4C4F-B72D-D5AD9EC0D908}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CAF14343-74C3-4331-BCA0-7C545192D715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAF14343-74C3-4331-BCA0-7C545192D715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAF14343-74C3-4331-BCA0-7C545192D715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDB8E76-9DF0-4C4F-B72D-D5AD9EC0D908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDB8E76-9DF0-4C4F-B72D-D5AD9EC0D908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDB8E76-9DF0-4C4F-B72D-D5AD9EC0D908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDB8E76-9DF0-4C4F-B72D-D5AD9EC0D908}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
